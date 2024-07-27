@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Senang bertemu denganmu.</h1>
 
 <p>Selamat datang di halaman saya! <br> 
-Saya Jeey Store, seorang Fullstack Developer. Saya lahir di Manado dan sekarang tinggal di Gorontalo, Indonesia <img src="https://cdn-icons-png.flaticon.com/512/197/197507.png" width="13"/> 🇮🇩.
+Saya Jeey Store, seorang Fullstack Developer. Saya lahir di Manado dan sekarang tinggal di Gorontalo, Indonesia <img src="https://cdn-icons-png.flaticon.com/512/197/197452.png" width="13"/> 🇮🇩.
 </p>
 
 <h3>Hal-hal yang saya gunakan dalam coding</h3>
