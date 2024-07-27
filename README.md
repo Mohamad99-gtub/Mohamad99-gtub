@@ -1,5 +1,5 @@
-![Screenshot_20240726_184409](https://github.com/user-attachments/assets/d6df43ec-c626-46ba-9dc8-d4d3b51a2799)
-![IMG_20240727_040930_799](https://github.com/user-attachments/assets/200103f8-accf-40eb-b4c5-87bcfe379a5b)
+![IMG_20240727_040930_799](https://github.com/user-attachments/assets/fc841eff-95ac-437f-877a-546fb91a3630)
+
 # Belajar HTML, CSS, dan JavaScript untuk Perbankan
 
 ## Pendahuluan
