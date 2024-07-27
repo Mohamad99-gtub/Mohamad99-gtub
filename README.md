@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Senang bertemu denganmu.</h1>
 
-<p>Selamat datang di halaman saya! <br> 
-Saya Jeey Store, seorang Fullstack Developer. Saya lahir di Manado dan sekarang tinggal di Gorontalo, Indonesia <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" width="13"/>.
+<p>S̴̨̬̹͍̮̰̱̍̾̋̓̐͌̇͝e̴͉̮̘̻̬̹̹̦̱̊͆̉̑̊̐̂́̉͜͝l̷͖̭̻̰̜̄a̶̢͓̠̱͖͑̓̆̀̀̎̑̇͘m̷̻̝̞̗͈̐͒̑̑̀̒͐̓͠a̶͈͖̦̬̰͚͖̺̓̌̽̀ͅt̶̨̙͙̬̦̠̥̗̣͂̽̚ ̵̧̙̘́d̴̪̞̩͕̤͇͔͗̚̕͝ͅa̷̱͔͓͚̩̹͉͊̈̀͐͊̾͋͑t̴̗̯̠͈͇̊͊̄̀̾̓a̴̜͖̬̓̊̍͛́́̈́̈́͂n̸̡̨̞̼͈͓̙̟̋́͑̄ͅͅg̵̦̹̙̋̄̊̂͋͆͜͝ ̸̫͈̤̘́̓́̕͠d̵͔͍̺̼̬͉̬̝̹͓́̎́̂̂̀̎̕i̸̼̜͕͙̝̻̗̼̘͒̕ ̴̩̭̦͍͂̓̌̊̇̌͘͜h̴̹̟̭̖̥̙́̽̎̅̾̈́̆̚̕a̷͉̭͍̥̻̥͍̩̋͑̾̋ͅḻ̸̭̝͑͒͆̀͆͊ä̴̢̜̥̱̞́ḿ̵̘̘̳̝̖̝͉̟̣͊͜ã̵̘̈̔̔̓̀̄͘n̷̡̛̬̳͙͎̦͑̌̐͊̿̊ͅ ̸͖̻̫͓̥̆̑s̸̮̮̦̅͠ȃ̶̹̑̽̽̐͘ỵ̵̩̲͙̒̏ͅa̷̼̋̎̄̎͝ͅ!̸͓̏̅̾̏̂̂͒̒͘
+  <br> 
+𝚂𝚊𝚢𝚊 𝙹𝚎𝚎𝚢 𝚜𝚝𝚘𝚛𝚎, 𝚜𝚎𝚘𝚛𝚊𝚗𝚐 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛. 𝚂𝚊𝚢𝚊 𝚕𝚊𝚑𝚒𝚛 𝚍𝚒 𝙼𝚊𝚗𝚊𝚍𝚘 𝚍𝚊𝚗 𝚜𝚎𝚔𝚊𝚛𝚊𝚗𝚐 𝚝𝚒𝚗𝚐𝚐𝚊𝚕 𝚍𝚒 𝙶𝚘𝚛𝚘𝚗𝚝𝚊𝚕𝚘, 𝙸𝚗𝚍𝚘𝚗𝚎𝚜𝚒𝚊 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" width="13"/>.
 </p>
 
 <h3>Hal-hal yang saya gunakan dalam coding</h3>
