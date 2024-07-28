@@ -1829,11 +1829,10 @@ footer a:hover {
 
 Tag `<footer>` adalah elemen semantik yang penting dalam HTML yang membantu dalam menyusun dan mengorganisir bagian bawah halaman atau elemen web dengan informasi penting dan tautan tambahan.
 
-<h1 https://img.shields.io/badge/Performance-Excellent-blue" width="30"/> lanjut boss.</h1
-
 
 -----
-### CSS (Cascading Style Sheets)
+<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original-wordmark.svg" width="36" height="36" alt="CSS3" />
+### CSS  (Cascading Style Sheets)
 
 #### A - `align-items`
 Properti Flexbox untuk menyelaraskan item di sepanjang sumbu silang.
