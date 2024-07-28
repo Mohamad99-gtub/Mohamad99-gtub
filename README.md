@@ -45,8 +45,6 @@
 
 Dalam pengembangan aplikasi perbankan berbasis web, ada beberapa elemen HTML, CSS, dan JavaScript yang sering digunakan. Berikut adalah panduan dari A hingga Z mengenai elemen-elemen tersebut.
 
-### HTML (HyperText Markup Language)
-
 #### A - `<a>`
 Tag `<a>` dalam HTML digunakan untuk membuat hyperlink, yang memungkinkan pengguna untuk mengklik dan diarahkan ke halaman atau sumber lain. Berikut adalah contoh sederhana dan cara penggunaannya:
 
@@ -73,7 +71,37 @@ Penjelasan:
 Jadi, `<a>` adalah elemen yang sangat penting dalam HTML untuk navigasi antara halaman atau dokumen.
 
 #### B - `<button>`
-Elemen tombol yang digunakan dalam formulir atau untuk interaksi pengguna.
+Tag `<button>` digunakan untuk membuat tombol interaktif di halaman web. Tombol ini bisa digunakan untuk berbagai fungsi, seperti mengirimkan formulir, menjalankan skrip JavaScript, atau hanya untuk tampilan.
+
+### Contoh Dasar
+
+```html
+<button>Klik Saya</button>
+```
+
+Ini adalah contoh sederhana di mana tombol menampilkan teks "Klik Saya". Tanpa atribut tambahan, tombol ini tidak akan melakukan apa-apa saat diklik.
+
+### Contoh dengan JavaScript
+
+```html
+<button onclick="alert('Tombol diklik!')">Klik Saya</button>
+```
+
+Dalam contoh ini, tombol memiliki atribut `onclick` yang menjalankan fungsi JavaScript `alert` saat tombol diklik. Fungsi ini akan menampilkan pesan "Tombol diklik!".
+
+### Contoh dengan Atribut Type
+
+```html
+<form action="/submit" method="post">
+  <button type="submit">Kirim</button>
+</form>
+```
+
+Penjelasan:
+- `type="submit"`: Menentukan bahwa tombol ini akan mengirimkan formulir yang terkait.
+- Tombol ini biasanya digunakan di dalam elemen `<form>`. Ketika diklik, formulir akan dikirimkan ke URL yang ditentukan dalam atribut `action` dari `<form>`.
+
+Tag `<button>` lebih fleksibel dibandingkan tag `<input>` untuk tombol, karena bisa mengandung elemen HTML lainnya, seperti gambar atau teks bergaya.
 
 #### C - `<code>`
 Digunakan untuk menampilkan kode dalam halaman web.
