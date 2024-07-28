@@ -1829,8 +1829,8 @@ footer a:hover {
 
 Tag `<footer>` adalah elemen semantik yang penting dalam HTML yang membantu dalam menyusun dan mengorganisir bagian bawah halaman atau elemen web dengan informasi penting dan tautan tambahan.
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> lanjut boss.</h1
-lanjut boss
+<h1 https://img.shields.io/badge/Performance-Excellent-blue" width="30"/> lanjut boss.</h1
+
 
 -----
 ### CSS (Cascading Style Sheets)
