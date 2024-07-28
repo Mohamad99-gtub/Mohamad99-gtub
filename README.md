@@ -1,3 +1,4 @@
+![IMG_20240727_040930_799](https://github.com/user-attachments/assets/138df81c-b65e-4fdc-baeb-18c54748f33d)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝙷𝚊𝚒! 𝚂𝚎𝚗𝚊𝚗𝚐 𝚋𝚎𝚛𝚝𝚎𝚖𝚞 𝚍𝚎𝚗𝚐𝚊𝚗𝚖𝚞.</h1>
 
 
