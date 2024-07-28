@@ -48,7 +48,29 @@ Dalam pengembangan aplikasi perbankan berbasis web, ada beberapa elemen HTML, CS
 ### HTML (HyperText Markup Language)
 
 #### A - `<a>`
-Elemen tautan yang digunakan untuk membuat hyperlink.
+Tag `<a>` dalam HTML digunakan untuk membuat hyperlink, yang memungkinkan pengguna untuk mengklik dan diarahkan ke halaman atau sumber lain. Berikut adalah contoh sederhana dan cara penggunaannya:
+
+### Contoh Dasar
+
+```html
+<a href="https://www.example.com">Kunjungi Situs</a>
+```
+
+Dalam contoh ini:
+- `href="https://www.example.com"` adalah atribut yang menentukan URL tujuan.
+- Teks "Kunjungi Situs" adalah yang akan ditampilkan dan dapat diklik oleh pengguna.
+
+### Contoh dengan Atribut Tambahan
+
+```html
+<a href="https://www.example.com" target="_blank" rel="noopener noreferrer">Kunjungi Situs</a>
+```
+
+Penjelasan:
+- `target="_blank"`: Membuka tautan di tab atau jendela baru.
+- `rel="noopener noreferrer"`: Menghindari potensi risiko keamanan saat membuka tautan di tab baru, dan menghilangkan referer dari tautan.
+
+Jadi, `<a>` adalah elemen yang sangat penting dalam HTML untuk navigasi antara halaman atau dokumen.
 
 #### B - `<button>`
 Elemen tombol yang digunakan dalam formulir atau untuk interaksi pengguna.
