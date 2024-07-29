@@ -3921,3 +3921,90 @@ Angka 0, sering digunakan dalam perhitungan dan perbandingan.
 </p>
 
 # Keep Supporting
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Languages Chart</title>
+<style>
+  .languages {
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auto;
+  }
+
+  .language-bar {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .language-label {
+    width: 100px;
+    text-align: right;
+    margin-right: 10px;
+  }
+
+  .bar {
+    height: 20px;
+    background-color: #ccc;
+    position: relative;
+    border-radius: 5px;
+  }
+
+  .bar-fill {
+    height: 100%;
+    border-radius: 5px;
+    position: absolute;
+  }
+
+  .bar-fill.javascript {
+    width: 52.8%;
+    background-color: #f1e05a;
+  }
+
+  .bar-fill.css {
+    width: 31.7%;
+    background-color: #563d7c;
+  }
+
+  .bar-fill.html {
+    width: 15.5%;
+    background-color: #e34c26;
+  }
+
+  .percentage {
+    margin-left: 10px;
+  }
+</style>
+</head>
+<body>
+
+<div class="languages">
+  <div class="language-bar">
+    <div class="language-label">JavaScript</div>
+    <div class="bar">
+      <div class="bar-fill javascript"></div>
+    </div>
+    <div class="percentage">52.8%</div>
+  </div>
+  <div class="language-bar">
+    <div class="language-label">CSS</div>
+    <div class="bar">
+      <div class="bar-fill css"></div>
+    </div>
+    <div class="percentage">31.7%</div>
+  </div>
+  <div class="language-bar">
+    <div class="language-label">HTML</div>
+    <div class="bar">
+      <div class="bar-fill html"></div>
+    </div>
+    <div class="percentage">15.5%</div>
+  </div>
+</div>
+
+</body>
+</html>
