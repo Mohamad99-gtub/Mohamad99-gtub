@@ -3942,44 +3942,15 @@ Selain GitHub, kami juga mulai menyebarkan dan berbagi proyek open-source berkua
 -------
 ## Languages Used
 
-- JavaScript ![Progress](https://progress-bar.dev/99)
-- CSS ![Progress](https://progress-bar.dev/99)
-- HTML ![Progress](https://progress-bar.dev/99)
-from PIL import Image, ImageDraw, ImageFont
-import requests
-from io import BytesIO
-
-# URLs for the progress bar images
-progress_bars = {
-    "PHP": "https://progress-bar.dev/50",
-    "Python": "https://progress-bar.dev/40",
-    "SQL": "https://progress-bar.dev/60",
-    "Node.js": "https://progress-bar.dev/30",
-    "React": "https://progress-bar.dev/25",
-    "Angular": "https://progress-bar.dev/20"
-}
-
-# Create a new blank image
-width = 400
-height_per_item = 50
-img_height = height_per_item * len(progress_bars)
-img = Image.new('RGB', (width, img_height), (255, 255, 255))
-
-draw = ImageDraw.Draw(img)
-font = ImageFont.load_default()
-
-# Load and draw each progress bar
-y_offset = 0
-for tech, url in progress_bars.items():
-    response = requests.get(url)
-    progress_img = Image.open(BytesIO(response.content))
-    progress_img = progress_img.resize((200, 20))  # Resize if needed
-    img.paste(progress_img, (200, y_offset + 15))
-    draw.text((10, y_offset + 10), tech, fill=(0, 0, 0), font=font)
-    y_offset += height_per_item
-
-# Save the final image
-img.save("tech_progress_bars.png")
+- JavaScript ![99%](https://progress-bar.dev/99)
+- CSS ![99%](https://progress-bar.dev/99)
+- HTML ![99%](https://progress-bar.dev/99)
+- PHP ![50%](https://progress-bar.dev/50)
+- Python ![40%](https://progress-bar.dev/40)
+- SQL ![60%](https://progress-bar.dev/60)
+- Node.js ![30%](https://progress-bar.dev/30)
+- React ![25%](https://progress-bar.dev/25)
+- Angular ![20%](https://progress-bar.dev/20)
 
 -----
 ## Hak Cipta
