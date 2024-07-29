@@ -3919,6 +3919,25 @@ Angka 0, sering digunakan dalam perhitungan dan perbandingan.
   <a href="https://github.com/Mohamad99-gtub/Sosial-media-/"><img title="Size" src="https://img.shields.io/github/repo-size/Mohamad99-gtub/Sosial-media-?style=flat-square&color=green"></a>
   <a href="https://github.com/Mohamad99-gtub/Sosial-media-/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
+------
+## Tujuan
+
+Bertahun-tahun lalu, saya melihat seorang penulis proyek open-source GitHub dan full-stack engineer, TJ Holowaychunk, mengatakan:
+
+"Saya tidak membaca buku, tidak pernah bersekolah, saya hanya membaca kode orang lain dan selalu bertanya-tanya bagaimana hal-hal bekerja".
+
+Sejak saat itu, saya percaya bahwa dengan membaca kode sumber dan memikirkan arsitektur serta logika program dari perspektif para pendahulu, adalah cara terbaik untuk meningkatkan keterampilan pemrograman.
+
+Oleh karena itu, GitHub menjadi platform pengembang favorit saya.
+
+Dengan tujuan menggali nilai open-source, GitHubDaily didirikan pada tanggal 10 Oktober 2015.
+
+Kami berharap melalui upaya ini, kami dapat membantu para pengembang menemukan proyek open-source terpanas saat ini, mengendalikan tren teknologi terbaru, memperluas wawasan teknologi, dan meningkatkan keterampilan pemrograman dari belajar proyek open-source.
+
+Saat ini, GitHubDaily telah membagikan lebih dari 3000 proyek open-source, termasuk namun tidak terbatas pada materi teknologi open-source di GitHub, alat pengembang, situs web pemrograman, serta aplikasi yang matang.
+
+Selain GitHub, kami juga mulai menyebarkan dan berbagi proyek open-source berkualitas melalui berbagai platform media sosial di bawah ini, mengeksplorasi potensi aplikasi teknologi masa depan.
+
 
 -------
 ## Languages Used
@@ -3926,3 +3945,8 @@ Angka 0, sering digunakan dalam perhitungan dan perbandingan.
 - JavaScript ![Progress](https://progress-bar.dev/53) 52.99%
 - CSS ![Progress](https://progress-bar.dev/32) 31.99%
 - HTML ![Progress](https://progress-bar.dev/16) 15.99%
+-----
+## Hak Cipta
+
+Semua konten yang dibagikan di sini adalah hak cipta Mohamad Abubakar (Jeey). Hak cipta dilindungi undang-undang. Tidak diperkenankan memperbanyak atau mendistribusikan sebagian atau seluruh konten tanpa izin tertulis dari pemilik hak cipta.
+
