@@ -3920,10 +3920,9 @@ Angka 0, sering digunakan dalam perhitungan dan perbandingan.
   <a href="https://github.com/Mohamad99-gtub/Sosial-media-/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
-# Keep Supporting
-
+-------
 ## Languages Used
 
-- JavaScript ![Progress](https://progress-bar.dev/53) 52.8%
-- CSS ![Progress](https://progress-bar.dev/32) 31.7%
-- HTML ![Progress](https://progress-bar.dev/16) 15.5%
+- JavaScript ![Progress](https://progress-bar.dev/53) 52.99%
+- CSS ![Progress](https://progress-bar.dev/32) 31.99%
+- HTML ![Progress](https://progress-bar.dev/16) 15.99%
