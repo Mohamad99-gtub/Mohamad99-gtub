@@ -3942,9 +3942,9 @@ Selain GitHub, kami juga mulai menyebarkan dan berbagi proyek open-source berkua
 -------
 ## Languages Used
 
-- JavaScript ![Progress](https://progress-bar.dev/53) 52.99%
-- CSS ![Progress](https://progress-bar.dev/32) 31.99%
-- HTML ![Progress](https://progress-bar.dev/16) 15.99%
+- JavaScript ![Progress](https://progress-bar.dev/99) 52.99%
+- CSS ![Progress](https://progress-bar.dev/99) 31.99%
+- HTML ![Progress](https://progress-bar.dev/99) 15.99%
 -----
 ## Hak Cipta
 
