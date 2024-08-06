@@ -4,10 +4,11 @@ Halo semua!
 
 Terima kasih telah mengunjungi repositori ini. Saya, **Jeey Store**, berbagi sebuah script yang mungkin bermanfaat untuk Anda. Script ini sudah siap digunakan dan Anda bisa mengunduhnya dengan mudah melalui link yang sudah saya sediakan.
 ------
+## SCRIPT LorenzoCheems FIXED
 ![20240807_002822](https://github.com/user-attachments/assets/49549dfb-210f-4d22-ade0-431839370285)
-## SCRIPT LorenzoCheems FIXED👇
 https://sfile.mobi/94GTKt7bO0F
 
+------------
 
 
 
