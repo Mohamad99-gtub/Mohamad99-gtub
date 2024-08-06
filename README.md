@@ -24,10 +24,15 @@ Terima kasih telah mengunjungi repositori ini. Saya, **Jeey Store**, berbagi seb
 ![foto](https://github.com/user-attachments/assets/359e858b-fda9-45bc-af82-451637b628f4)
 * *https://sfile.mobi/6VISHkSIZaV*
 
+-----
+# SCRIPT V4  By Faris
+![undefined](https://github.com/user-attachments/assets/24343101-c807-4f0e-9cc8-6b6119ea8573)
+* *https://sfile.mobi/8eYTr4MFO00*
 
-
-
-
+----
+# SCRIPT neoxr-bot 
+![thumb](https://github.com/user-attachments/assets/1d8f1cd5-d8ec-4bda-969e-5ed3af8e5dda)
+* *https://sfile.mobi/7E2T6RsDcWD*
 
 
 
