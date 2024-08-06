@@ -22,7 +22,7 @@ Terima kasih telah mengunjungi repositori ini. Saya, **Jeey Store**, berbagi seb
 -----
 # SCRIPT SASUKE V2 CPANEL+PUSHKONTAK
 ![foto](https://github.com/user-attachments/assets/359e858b-fda9-45bc-af82-451637b628f4)
-`https://sfile.mobi/6VISHkSIZaV`
+**https://sfile.mobi/6VISHkSIZaV*
 
 
 
@@ -37,15 +37,3 @@ Terima kasih telah mengunjungi repositori ini. Saya, **Jeey Store**, berbagi seb
 
 
 
-
-
-
-# Terima Kasih atas Dukungan Anda!
-
-![Donasi](https://github.com/username/repository-name/blob/main/donasi.gif?raw=true)
-
-Jika Anda merasa terbantu oleh proyek ini dan ingin memberikan dukungan, Anda bisa melakukan donasi melalui saluran berikut:
-
-- **[Tautan Donasi](https://contoh-donasi.com)**
-
-Terima kasih atas dukungan Anda!
