@@ -20,7 +20,9 @@ Terima kasih telah mengunjungi repositori ini. Saya, **Jeey Store**, berbagi seb
 https://sfile.mobi/agyUxlHE889
 
 -----
-
+# SCRIPT SASUKE V2 CPANEL+PUSHKONTAK
+![foto](https://github.com/user-attachments/assets/359e858b-fda9-45bc-af82-451637b628f4)
+https://sfile.mobi/6VISHkSIZaV
 
 
 
