@@ -98,7 +98,7 @@ l![thumb](https://github.com/user-attachments/assets/8a5c1dbb-2820-4aca-a932-218
 
 -----
 # SCRIPT DELTA 5.2
-![Screenshot_20240808_051125](https://github.com/user-attachments/assets/4fdb9ca2-7543-4931-bd90-4aad2b0fbebe)
+![20240808_051230](https://github.com/user-attachments/assets/14eeba2e-9f37-4263-b6c9-1f4c8373320d)
 * *https://sfile.mobi/8IwZD0WeEEg*
 
 -----
