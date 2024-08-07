@@ -86,7 +86,7 @@ l![thumb](https://github.com/user-attachments/assets/8a5c1dbb-2820-4aca-a932-218
 
 ----
 # SCRIPT NanoBotzID
-![Screenshot_20240808_050400](https://github.com/user-attachments/assets/0a5372eb-701f-4551-bc17-c6f35222ca2e)
+![20240808_050528](https://github.com/user-attachments/assets/6619627a-306b-4d01-a13f-9f1e7e8f7bfe)
 * *https://sfile.mobi/9jsZX99ytUE*  
 
 
